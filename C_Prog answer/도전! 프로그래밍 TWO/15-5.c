@@ -8,7 +8,7 @@ int main(void)
 
 	for(i=0; i<7; i++)
 	{
-		printf("ют╥б: ");
+		// printf("О©╫т╥О©╫: ");
 		scanf("%d", &arr[i]);
 	}
 
